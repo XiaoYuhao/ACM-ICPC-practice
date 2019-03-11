@@ -1,0 +1,9 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\trace\test.cpp(20): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+d:\demo\acm暑假训练\trace\test.cpp(21): warning C4244: “初始化”: 从“double”转换到“ll”，可能丢失数据
+d:\demo\acm暑假训练\trace\test.cpp(28): warning C4244: “参数”: 从“ll”转换到“unsigned int”，可能丢失数据
+d:\demo\acm暑假训练\trace\test.cpp(30): warning C4244: “参数”: 从“ll”转换到“unsigned int”，可能丢失数据
+d:\demo\acm暑假训练\trace\test.cpp(34): warning C4244: “参数”: 从“ll”转换到“unsigned int”，可能丢失数据
+d:\demo\acm暑假训练\trace\test.cpp(36): warning C4244: “参数”: 从“ll”转换到“unsigned int”，可能丢失数据
+  Trace.vcxproj -> D:\demo\ACM暑假训练\Debug\Trace.exe
+  Trace.vcxproj -> D:\demo\ACM暑假训练\Debug\Trace.pdb (Partial PDB)

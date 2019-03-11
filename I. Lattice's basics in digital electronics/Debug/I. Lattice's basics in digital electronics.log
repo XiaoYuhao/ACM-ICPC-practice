@@ -1,0 +1,7 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\i. lattice's basics in digital electronics\test.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\i. lattice's basics in digital electronics\test.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\i. lattice's basics in digital electronics\test.cpp(96): warning C4018: “>”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\i. lattice's basics in digital electronics\test.cpp(104): warning C4018: “<”: 有符号/无符号不匹配
+  I. Lattice's basics in digital electronics.vcxproj -> D:\demo\ACM暑假训练\Debug\I. Lattice's basics in digital electronics.exe
+  I. Lattice's basics in digital electronics.vcxproj -> D:\demo\ACM暑假训练\Debug\I. Lattice's basics in digital electronics.pdb (Partial PDB)

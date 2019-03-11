@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\c - mysterious present\test.cpp(21): warning C4101: “cw”: 未引用的局部变量
+d:\demo\acm暑假训练\c - mysterious present\test.cpp(21): warning C4101: “ch”: 未引用的局部变量
+  C - Mysterious Present.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Mysterious Present.exe
+  C - Mysterious Present.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Mysterious Present.pdb (Partial PDB)

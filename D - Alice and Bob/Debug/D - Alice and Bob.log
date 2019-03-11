@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\d - alice and bob\test.cpp(18): warning C4101: “k”: 未引用的局部变量
+d:\demo\acm暑假训练\d - alice and bob\test.cpp(18): warning C4101: “j”: 未引用的局部变量
+  D - Alice and Bob.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Alice and Bob.exe
+  D - Alice and Bob.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Alice and Bob.pdb (Partial PDB)

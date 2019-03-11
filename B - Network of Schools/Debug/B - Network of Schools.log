@@ -1,0 +1,6 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\b - network of schools\test.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\b - network of schools\test.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\b - network of schools\test.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+  B - Network of Schools.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Network of Schools.exe
+  B - Network of Schools.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Network of Schools.pdb (Partial PDB)

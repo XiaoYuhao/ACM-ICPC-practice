@@ -1,0 +1,11 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “y2”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “y1”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “x1”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “x4”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “y3”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “x3”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “y4”: 未引用的局部变量
+d:\demo\acm暑假训练\d - an easy problem\test.cpp(63): warning C4101: “x2”: 未引用的局部变量
+  D - An Easy Problem.vcxproj -> D:\demo\ACM暑假训练\Debug\D - An Easy Problem.exe
+  D - An Easy Problem.vcxproj -> D:\demo\ACM暑假训练\Debug\D - An Easy Problem.pdb (Partial PDB)

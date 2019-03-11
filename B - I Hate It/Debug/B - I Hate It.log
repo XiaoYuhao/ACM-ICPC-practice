@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\b - i hate it\test.cpp(55): warning C4101: “x”: 未引用的局部变量
+  B - I Hate It.vcxproj -> D:\demo\ACM暑假训练\Debug\B - I Hate It.exe
+  B - I Hate It.vcxproj -> D:\demo\ACM暑假训练\Debug\B - I Hate It.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\b - string problem\test.cpp(47): warning C4101: “cc”: 未引用的局部变量
+  B - String Problem.vcxproj -> D:\demo\ACM暑假训练\Debug\B - String Problem.exe
+  B - String Problem.vcxproj -> D:\demo\ACM暑假训练\Debug\B - String Problem.pdb (Partial PDB)

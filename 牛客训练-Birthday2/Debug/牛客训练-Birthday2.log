@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\牛客训练-birthday2\test.cpp(11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  牛客训练-Birthday2.vcxproj -> D:\demo\ACM暑假训练\Debug\牛客训练-Birthday2.exe
+  牛客训练-Birthday2.vcxproj -> D:\demo\ACM暑假训练\Debug\牛客训练-Birthday2.pdb (Partial PDB)

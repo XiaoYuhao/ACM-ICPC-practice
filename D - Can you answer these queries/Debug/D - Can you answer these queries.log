@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\d - can you answer these queries\test.cpp(35): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  D - Can you answer these queries.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Can you answer these queries.exe
+  D - Can you answer these queries.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Can you answer these queries.pdb (Partial PDB)

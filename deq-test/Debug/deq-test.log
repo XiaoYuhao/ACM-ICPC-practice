@@ -1,0 +1,5 @@
+﻿  deq-test.cpp
+d:\demo\acm暑假训练\deq-test\deq-test.cpp(23): warning C4018: “>”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\deq-test\deq-test.cpp(11): warning C4101: “j”: 未引用的局部变量
+  deq-test.vcxproj -> D:\demo\ACM暑假训练\Debug\deq-test.exe
+  deq-test.vcxproj -> D:\demo\ACM暑假训练\Debug\deq-test.pdb (Partial PDB)

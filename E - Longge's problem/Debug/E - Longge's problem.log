@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\e - longge's problem\test.cpp(9): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  E - Longge's problem.vcxproj -> D:\demo\ACM暑假训练\Debug\E - Longge's problem.exe
+  E - Longge's problem.vcxproj -> D:\demo\ACM暑假训练\Debug\E - Longge's problem.pdb (Partial PDB)

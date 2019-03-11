@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\d - the child and zoo\test.cpp(51): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  D - The Child and Zoo.vcxproj -> D:\demo\ACM暑假训练\Debug\D - The Child and Zoo.exe
+  D - The Child and Zoo.vcxproj -> D:\demo\ACM暑假训练\Debug\D - The Child and Zoo.pdb (Partial PDB)

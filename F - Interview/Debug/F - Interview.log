@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\f - interview\test.cpp(6): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  F - Interview.vcxproj -> D:\demo\ACM暑假训练\Debug\F - Interview.exe
+  F - Interview.vcxproj -> D:\demo\ACM暑假训练\Debug\F - Interview.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\hard disk drive\test.cpp(44): warning C4715: “check”: 不是所有的控件路径都返回值
+  Hard Disk Drive.vcxproj -> D:\demo\ACM暑假训练\Debug\Hard Disk Drive.exe
+  Hard Disk Drive.vcxproj -> D:\demo\ACM暑假训练\Debug\Hard Disk Drive.pdb (Partial PDB)

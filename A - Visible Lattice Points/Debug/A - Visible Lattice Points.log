@@ -1,0 +1,8 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\a - visible lattice points\test.cpp(33): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“__int64”
+  d:\demo\acm暑假训练\a - visible lattice points\test.cpp(33): note: 请考虑在格式字符串中使用“%lld”
+  d:\demo\acm暑假训练\a - visible lattice points\test.cpp(33): note: 请考虑在格式字符串中使用“%I64d”
+d:\demo\acm暑假训练\a - visible lattice points\test.cpp(20): warning C4101: “j”: 未引用的局部变量
+d:\demo\acm暑假训练\a - visible lattice points\test.cpp(20): warning C4101: “i”: 未引用的局部变量
+  A - Visible Lattice Points.vcxproj -> D:\demo\ACM暑假训练\Debug\A - Visible Lattice Points.exe
+  A - Visible Lattice Points.vcxproj -> D:\demo\ACM暑假训练\Debug\A - Visible Lattice Points.pdb (Partial PDB)

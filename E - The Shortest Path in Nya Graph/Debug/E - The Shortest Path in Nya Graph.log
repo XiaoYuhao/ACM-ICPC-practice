@@ -1,0 +1,6 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\e - the shortest path in nya graph\test.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\e - the shortest path in nya graph\test.cpp(59): warning C4101: “k”: 未引用的局部变量
+d:\demo\acm暑假训练\e - the shortest path in nya graph\test.cpp(58): warning C4101: “e”: 未引用的局部变量
+  E - The Shortest Path in Nya Graph.vcxproj -> D:\demo\ACM暑假训练\Debug\E - The Shortest Path in Nya Graph.exe
+  E - The Shortest Path in Nya Graph.vcxproj -> D:\demo\ACM暑假训练\Debug\E - The Shortest Path in Nya Graph.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\c - popular cows\test.cpp(26): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\c - popular cows\test.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+  C - Popular Cows.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Popular Cows.exe
+  C - Popular Cows.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Popular Cows.pdb (Partial PDB)

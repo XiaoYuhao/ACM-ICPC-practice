@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\h. house lawn\test.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\h. house lawn\test.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+  H. House Lawn.vcxproj -> D:\demo\ACM暑假训练\Debug\H. House Lawn.exe
+  H. House Lawn.vcxproj -> D:\demo\ACM暑假训练\Debug\H. House Lawn.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\b - wall\test.cpp(11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\demo\acm暑假训练\b - wall\test.cpp(23): warning C4244: “return”: 从“double”转换到“LL”，可能丢失数据
+d:\demo\acm暑假训练\b - wall\test.cpp(54): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  B - Wall.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Wall.exe
+  B - Wall.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Wall.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\d - clear the matrix\test.cpp(6): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  D - Clear The Matrix.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Clear The Matrix.exe
+  D - Clear The Matrix.vcxproj -> D:\demo\ACM暑假训练\Debug\D - Clear The Matrix.pdb (Partial PDB)

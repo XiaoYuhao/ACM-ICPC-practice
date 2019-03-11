@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\tree and permutation\test.cpp(10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Tree and Permutation.vcxproj -> D:\demo\ACM暑假训练\Debug\Tree and Permutation.exe
+  Tree and Permutation.vcxproj -> D:\demo\ACM暑假训练\Debug\Tree and Permutation.pdb (Partial PDB)

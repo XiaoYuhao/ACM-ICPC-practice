@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\b - control\test.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\b - control\test.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+  B - Control.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Control.exe
+  B - Control.vcxproj -> D:\demo\ACM暑假训练\Debug\B - Control.pdb (Partial PDB)

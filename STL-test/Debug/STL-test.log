@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\stl-test\test.cpp(12): warning C4101: “y”: 未引用的局部变量
+  STL-test.vcxproj -> D:\demo\ACM暑假训练\Debug\STL-test.exe
+  STL-test.vcxproj -> D:\demo\ACM暑假训练\Debug\STL-test.pdb (Partial PDB)

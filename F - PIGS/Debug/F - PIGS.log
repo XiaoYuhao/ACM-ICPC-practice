@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\f - pigs\test.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\f - pigs\test.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  F - PIGS.vcxproj -> D:\demo\ACM暑假训练\Debug\F - PIGS.exe
+  F - PIGS.vcxproj -> D:\demo\ACM暑假训练\Debug\F - PIGS.pdb (Partial PDB)

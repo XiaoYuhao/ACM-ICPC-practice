@@ -1,0 +1,5 @@
+﻿  test.cpp
+d:\demo\acm暑假训练\c - leapin' lizards\test.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+d:\demo\acm暑假训练\c - leapin' lizards\test.cpp(54): warning C4018: “<”: 有符号/无符号不匹配
+  C - Leapin' Lizards.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Leapin' Lizards.exe
+  C - Leapin' Lizards.vcxproj -> D:\demo\ACM暑假训练\Debug\C - Leapin' Lizards.pdb (Partial PDB)
